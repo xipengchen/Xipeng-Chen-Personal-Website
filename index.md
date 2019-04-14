@@ -10,7 +10,7 @@ I am an associate professor of economics at the Research Institute of Economics 
 
 My research focuses on labor economics, empirical IO, and applied microeconomics. In particular, I have a passion for applied research intergrating solid economic theory with empirical evidence using rigorous econometric analysis.
 
-<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+<!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 ## Contact
 
