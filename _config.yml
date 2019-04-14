@@ -19,7 +19,7 @@ nav:
  - name: "About"
    link: "/researcher/"
  - name: "Research"
-   link: "resume.pdf"
+   link: "research.md"
  - name: "Teaching"
    link: "teaching"
  - name: "CV"
