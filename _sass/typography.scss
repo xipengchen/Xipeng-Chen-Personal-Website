@@ -47,7 +47,7 @@
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $med-width) {
+        @media (min-device-width: 85px) {
             img {
                 margin-top: -5px;
             }
