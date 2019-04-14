@@ -5,7 +5,7 @@ title: Naibao Zhao
 
 ## <br/>About Me
 
-<img style="float: right;" class="profile-picture" src="nzhao.jpeg">
+<img class="profile-picture" src="nzhao.jpeg">
 
 I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE) in Chengdu, China. 
 
