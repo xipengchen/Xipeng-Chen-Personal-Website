@@ -13,6 +13,7 @@ My research focuses on labor economics, empirical IO, and applied microeconomics
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Contact
+
 nzhao@swufe.edu.cn
 220 RIEM Building, Guanghua Campus
 Southwestern University of Finance and Economics
