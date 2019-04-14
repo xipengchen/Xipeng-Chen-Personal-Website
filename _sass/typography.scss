@@ -47,9 +47,8 @@
             padding: 0;
             margin: 0;
         }
-        @media (max-width: 85px) {
+        @media (max-width: 100%) {
             img {
-                height:85px;
                 margin-top: -5px;
             }
         }
