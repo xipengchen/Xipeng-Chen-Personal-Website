@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://nzhao925.github.io/researcher" 
-footer_text: "Last updated: April 2019"
+footer_text: "Last updated: March 31, 2019"
 
 sass:
     style: compressed
