@@ -8,9 +8,9 @@ description: labor economics, empirical IO, applied microeconomics.
 ## Publications
 ### in Chinese
 
-#### <a name="pub"></a>publications
+<!-- #### <a name="pub"></a>publications -->
 
-##### in Chinese
+<!-- ##### in Chinese -->
 
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
   <code>甘犁、赵乃宝、孙永智</code><br/> 
