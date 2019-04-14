@@ -15,7 +15,7 @@ description: microeconomics, econometrics, labor economics.
         </ul>
     </div>
 </div> -->
-## <a name="instructor"></a> RIEM, SWUFE
+## <a name="instructor"></a> <br/> RIEM, SWUFE
 
 - Quantitative Mehtods in Empirical Analysis I (PhD), Spring 2019. <br/>
 <code>syllabus</code><br/>
@@ -24,7 +24,7 @@ description: microeconomics, econometrics, labor economics.
 <code>syllabus</code><br/><br/>
 
 ---
-## <a name="instructor"></a> Texas A&M University
+## <a name="instructor"></a> <br/> Texas A&M University
 
 - ECON 323: Microeconomic Theory (undergraduate), Spring 2018. <br/>
 <code>syllabus</code><br/>
