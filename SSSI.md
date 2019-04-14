@@ -7,7 +7,7 @@ description: HCEO-RIME SSSI Chengdu
 ## <br/>HCEO-RIEM SSSI Chengdu
 ### About the Program
 
-<img src="SSSI_2019.jpeg" style="max-width:100%">
+<img src="SSSI_2019_1.jpeg" style="max-width:100%">
 
 The Human Capital and Economic Opportunity Global Working Group (HCEO) at the University of Chicago and the Research Insititue of Economics and Management (RIEM) at Southwestern Unviersity of Finance and Economics (SWUFE) will co-host the HCEO's famous Summer School on Socioeconomic Inequality (SSSI) in Chengdu, China, July 15-19, 2019.
 
