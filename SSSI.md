@@ -4,9 +4,8 @@ title: HCEO-RIEM SSSI Chengdu
 description: HCEO-RIME SSSI Chengdu
 ---
 
-## HCEO-RIEM SSSI Chengdu
-
-#### <br/><br/><br/>About the Program
+## <br/>HCEO-RIEM SSSI Chengdu
+### About the Program
 
 <img src="../assets/pics/SSSI_2019.jpeg" class="align-left" alt="" >
 
@@ -20,7 +19,7 @@ To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 
 
 For more information please visit HCEO's offcial website <a href="https://hceconomics.uchicago.edu/events/summer-school-socioeconomic-inequality-chengdu-sssi-2019-chengdu" target="_blank"> Summer School on Socioeconomic Inequality, Chengdu (SSSI 2019 Chengdu)</a>.
 
-#### <br/><br/>Invited Speakers
+### <br/><br/>Invited Speakers
 
 **Lawrence Blume**, Cornell University / IHS Vienna<br/>
 **Flavio Cunha**, Rice University<br/>
