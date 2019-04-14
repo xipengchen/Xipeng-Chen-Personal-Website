@@ -6,9 +6,10 @@ description: HCEO-RIME SSSI Chengdu
 
 ## HCEO-RIEM SSSI Chengdu
 
-<img style="float: left;" src="../assets/pics/SSSI_2019.jpeg">
-
 #### <br/><br/><br/>About the Program
+
+<div style="float: left; position: relative" src="../assets/pics/SSSI_2019.jpeg">
+</div>
 
 The Human Capital and Economic Opportunity Global Working Group (HCEO) at the University of Chicago and the Research Insititue of Economics and Management (RIEM) at Southwestern Unviersity of Finance and Economics (SWUFE) will co-host the HCEO's famous Summer School on Socioeconomic Inequality (SSSI) in Chengdu, China, July 15-19, 2019.
 
@@ -29,4 +30,4 @@ For more information please visit HCEO's offcial website <a href="https://hcecon
 **Fali Huang**, Singapore Management University<br/>
 **Yi Lu**, Tsinghua University<br/>
 **Mark Rosenzweig**, Yale University<br/>
-**Junsen Zhang**, Chinese University of Hong Kong<br/>
+**Junsen Zhang**, Chinese University of Hong Kong<br/><br/>
