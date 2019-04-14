@@ -6,9 +6,9 @@ description: HCEO-RIME SSSI Chengdu
 
 ## HCEO-RIEM SSSI Chengdu
 
-<img style="float: left;" src="../assets/pics/SSSI_2019.jpeg" width="50%" height="50%">
+<img style="float: left;" src="../assets/pics/SSSI_2019.jpeg">
 
-#### Invited Speakers
+#### </br><br>Invited Speakers
 
 
 <div class="container-narrow">
