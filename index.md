@@ -14,7 +14,7 @@ My research focuses on labor economics, empirical IO, and applied microeconomics
 
 ## Contact
 
-nzhao@swufe.edu.cn
+nzhao swufe.edu.cn
 220 RIEM Building, Guanghua Campus
 Southwestern University of Finance and Economics
 Chengdu, Sichuan 610074
