@@ -51,7 +51,7 @@ description: labor economics, empirical IO, applied microeconomics.
 
 - Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/> 
 
-- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/>
+- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/><br/>
 
 <!-- 1. [Facebook](#) -->
 
