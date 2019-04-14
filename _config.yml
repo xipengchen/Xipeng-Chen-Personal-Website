@@ -1,4 +1,4 @@
-title: Researcher
+title: Naibao Zhao
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Last updated: April 2019"
 
 sass:
     style: compressed
@@ -22,5 +22,7 @@ nav:
    link: "resume.pdf"
  - name: "Teaching"
    link: "teaching"
- - name: "CV"
-   link: "cv.pdf"
+ - name: "Curriculum Vitae"
+   link: "nzhao.pdf"
+ - name: "HCEO-RIEM SSSI Chengdu"
+   link: "SSSI"
