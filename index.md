@@ -8,14 +8,14 @@ layout: default
 
 I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE) in Chengdu, China. 
 
-My research focuses on labor economics, empirical IO, and applied microeconomics. In particular, I have a passion for applied research intergrating solid economic theory with empirical evidence using rigorous econometric analysis.
+My research focuses on labor economics, empirical IO, and applied microeconomics. In particular, I have a passion for applied research intergrating solid economic theory with empirical evidence using rigorous econometric analysis.<br/>
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 
 ## Contact
 
-nzhao AT swufe.edu.cn<br/> 220 RIEM Building, Guanghua Campus<br/> Southwestern University of Finance and Economics<br/> Chengdu, Sichuan 610074<br/> P.R. China
+nzhao AT swufe.edu.cn<br/> 220 RIEM Building, Guanghua Campus<br/> Southwestern University of Finance and Economics<br/> Chengdu, Sichuan 610074<br/> P.R. China<br/>
 
 <!-- ## Publications -->
 
