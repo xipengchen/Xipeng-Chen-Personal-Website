@@ -6,7 +6,7 @@ description: HCEO-RIME SSSI Chengdu
 
 ## HCEO-RIEM SSSI Chengdu
 
-<img style="float: left;" src="../assets/pics/SSSI_2019.jpeg">
+<img style="float: left;" src="../assets/pics/SSSI_2019.jpeg" width="50%" height="50%">
 
 <div class="container-narrow">
     <div class="row-fluid">
