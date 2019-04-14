@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## <br/>About Me
 
 <img class="profile-picture" src="nzhao.jpeg">
 
@@ -13,7 +13,7 @@ My research focuses on labor economics, empirical IO, and applied microeconomics
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 
-## Contact
+## <br/>Contact
 
 nzhao AT swufe.edu.cn<br/> 220 RIEM Building, Guanghua Campus<br/> Southwestern University of Finance and Economics<br/> Chengdu, Sichuan 610074<br/> P.R. China<br/>
 
