@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Naibao Zhao
 ---
 
 ## <br/>About Me
