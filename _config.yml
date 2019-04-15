@@ -1,6 +1,6 @@
 title: Naibao Zhao
 url: "https://nzhao925.github.io"
-baseurl: "/nzhao925.github.io"
+#baseurl: "/nzhao925.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
