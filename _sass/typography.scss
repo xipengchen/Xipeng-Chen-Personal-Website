@@ -47,7 +47,9 @@
             padding: 0;
             margin: 0;
         }
-        @media (max-width: 85px) {
+        @media only screen
+         and(min-device-width: 85px) 
+         and(max-device-width: 85px) {
             img {
                 max-width: 85px;
                 margin-top: -5px;
