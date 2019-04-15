@@ -13,8 +13,8 @@ description: labor economics, empirical IO, applied microeconomics.
 <!-- ##### in Chinese -->
 
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
-  <code>甘犁、赵乃宝、孙永智</code><br/> 
-  <code>《经济研究》2018年第12期</code><br/><br/>
+  甘犁、赵乃宝、孙永智<br/> 
+  《经济研究》2018年第12期<br/><br/>
 
 
 
