@@ -20,7 +20,7 @@ nzhao AT swufe.edu.cn<br/>
 220 RIEM Building, Guanghua Campus<br/> 
 Southwestern University of Finance and Economics<br/> 
 Chengdu, Sichuan 610074<br/> 
-P.R. China<br/><br/>
+P. R. China<br/><br/>
 
 <!-- ## Publications -->
 
