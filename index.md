@@ -3,8 +3,6 @@ layout: default
 title: Naibao Zhao
 ---
 
-## <br/>About Me
-
 <img class="profile-picture" src="nzhao.jpeg">
 
 I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE) in Chengdu, China. 
@@ -16,7 +14,11 @@ My research focuses on labor economics, empirical IO, and applied microeconomics
 
 ## <br/>Contact
 
-<code>nzhao AT swufe.edu.cn</code><br/> 220 RIEM Building, Guanghua Campus<br/> Southwestern University of Finance and Economics<br/> Chengdu, Sichuan 610074<br/> P.R. China<br/><br/>
+nzhao AT swufe.edu.cn<br/> 
+220 RIEM Building, Guanghua Campus<br/> 
+Southwestern University of Finance and Economics<br/> 
+Chengdu, Sichuan 610074<br/> 
+P.R. China<br/><br/>
 
 <!-- ## Publications -->
 
