@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching 
+title: Teaching | Naibao Zhao
 tagline: 
 description: microeconomics, econometrics, labor economics.
 ---
