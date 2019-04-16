@@ -57,7 +57,7 @@ For more information please visit HCEO's offcial website <a href="https://hcecon
 | 03:00 PM -- 03:30 PM | Break            |                    | | 
 | 03:30 PM -- 05:00 PM | Lecture 14:       | Mark Rosenzweig     | Yale University | 
 | 05:15 PM -- 06:00 PM | Office Hours |     |  | 
-| **Day 5: 07/19, Thursday** |              |                    |  | 
+| **Day 5: 07/19, Friday** |              |                    |  | 
 | 09:00 AM -- 10:30 AM | Lecture 11:       | Junsen Zhang    | Chinese University of Hong Kong | 
 | 10:30 AM -- 11:00 AM | Break            |                    |  | 
 | 11:00 AM -- 12:30 PM | Lecture 12:       | Junsen Zhang    | Chinese University of Hong Kong  | 
