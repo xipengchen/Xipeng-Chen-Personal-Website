@@ -31,7 +31,7 @@ description: labor economics, empirical IO, applied microeconomics.
   <code><a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">manuscript</a> | <a href="{{ BASE_PATH }}/research/uncertainty_slides.pdf">slides</a></code><br/>
 
 - Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
-  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://yongzhisun.weebly.com" target="_blank"> Yongzhi Sun</a><br/>
+  with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://weyoungkid.github.io" target="_blank"> Yongzhi Sun</a><br/>
   <code>manuscript | slides</code> <br/>
   
 - Private Experimentation and Persuasion <br/> 
