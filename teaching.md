@@ -20,7 +20,7 @@ description: microeconomics, econometrics, labor economics.
 - Quantitative Mehtods in Empirical Analysis I (PhD), Spring 2019. <br/>
 <code>syllabus</code><br/>
 
-- Data Scientist with R (MS), Spring 2019. <br/>
+- Data Scientist with R (MA), Spring 2019. <br/>
 <code>syllabus</code><br/><br/>
 
 ---
