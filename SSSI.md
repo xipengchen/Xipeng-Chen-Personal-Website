@@ -18,9 +18,30 @@ To date, SSSI has been held in the U.S. (Chicago, 2012, 2013, 2015, 2016, 2017, 
 
 For more information please visit HCEO's offcial website <a href="https://hceconomics.uchicago.edu/events/summer-school-socioeconomic-inequality-chengdu-sssi-2019-chengdu" target="_blank"> Summer School on Socioeconomic Inequality, Chengdu (SSSI 2019 Chengdu)</a>.
 
-## <br/>Invited Speakers
+## <br/>Tentative Schedule
 
-**Lawrence Blume**, Cornell University / IHS Vienna<br/>
+**Day 1: 07/19, Monday** | 
+---------------------|------------------|--------------------|-------------
+09:00 AM -- 10:30 AM | Lecture 1:       | Steven Durlauf     | University of Chicago
+10:30 AM -- 11:00 AM | Break 
+11:00 AM -- 12:30 PM | Lecture 2:       | Steven Durlauf     | University of Chicago
+12:30 PM -- 01:30 PM | Lunch
+01:30 PM -- 03:00 PM | Lecture 3:       | Lawrence Blume     | Cornell University / IHS Vienna
+03:00 PM -- 03:30 PM | Break
+03:30 PM -- 05:00 PM | Lecture 4:       | Lawrence Blume     | Cornell University / IHS Vienna
+05:30 PM -- 07:30 PM | Welcome Dinner for All Participants
+---------------------|-----------------------------------------------------
+**Day 2: 07/20, Tuesday** | 
+---------------------|------------------|--------------------|-------------
+09:00 AM -- 10:30 AM | Lecture 1:       | Steven Durlauf     | University of Chicago
+10:30 AM -- 11:00 AM | Break 
+11:00 AM -- 12:30 PM | Lecture 2:       | Steven Durlauf     | University of Chicago
+12:30 PM -- 01:30 PM | Lunch
+01:30 PM -- 03:00 PM | Lecture 3:       | Lawrence Blume     | Cornell University / IHS Vienna
+03:00 PM -- 03:30 PM | Break
+03:30 PM -- 05:00 PM | Lecture 4:       | Lawrence Blume     | Cornell University / IHS Vienna
+05:30 PM -- 07:30 PM | Welcome Dinner for All Participants
+
 **Flavio Cunha**, Rice University<br/>
 **Steven Durlauf**, University of Chicago<br/>
 **Chao Fu**, University of Wisconsin-Madison<br/>
