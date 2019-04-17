@@ -28,22 +28,22 @@ description: labor economics, empirical IO, applied microeconomics.
 
 - Uncertainty in Procurement Contracting with Incentives <br/> 
   with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/>
-  <code><a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a> | <a href="{{ BASE_PATH }}/research/">slides</a></code><br/>
+  <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/">slides</a>]</code><br/>
 
 - Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
   with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://weyoungkid.github.io" target="_blank"> Yongzhi Sun</a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>new draft coming soon</code> <br/>
+  <code>[new draft coming soon]</code> <br/>
   
 - Private Experimentation and Persuasion <br/> 
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and <a> Meng Sun</a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>new draft coming soon</code> <br/>
+  <code>[new draft coming soon]</code> <br/>
   
 - The Role of Lead Investors in Fundraising Performance of Equity Crowdfunding: Evidence from China <br/> 
   with <a href="http://gs.swufe.edu.cn/home/school/teacher/info?programaid=29&tid=384" target="_blank"> Tao Shen</a> and <a> Fan Fan </a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>new draft coming soon</code> <br/><br/>
+  <code>[new draft coming soon]</code> <br/><br/>
 
 <!-- > 221B, Baker Street
 > -->
