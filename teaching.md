@@ -18,7 +18,7 @@ description: microeconomics, econometrics, labor economics.
 ## <a name="instructor"></a> <br/> RIEM, SWUFE
 
 - Quantitative Mehtods in Empirical Analysis I (PhD), Spring 2019. <br/>
-<code>syllabus</code><br/>
+<code>[syllabus]</code><br/>
 
 - Data Scientist with R (MA), Spring 2019. <br/>
 <code>[syllabus]</code><br/><br/>
