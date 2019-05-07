@@ -52,10 +52,10 @@ description: labor economics, empirical IO, applied microeconomics.
 
 ##  <br/> Work in Progress
 
-- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation.<br/>
+- Parent-Child Interactions: Expectation and Reality - A Structural Model and Estimation<br/>
   with <a href="http://yongzhisun.com" target="_blank"> Yongzhi Sun</a><br/>
 
-- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation.<br/>
+- The Human Capital Formation of Left-Behind Children in China: A Structural Model and Estimation<br/>
   with <a href="http://yongzhisun.com" target="_blank"> Yongzhi Sun</a><br/><br/><br/>
 
 
