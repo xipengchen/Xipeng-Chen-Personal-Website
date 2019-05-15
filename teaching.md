@@ -17,11 +17,11 @@ description: microeconomics, econometrics, labor economics.
 </div> -->
 ## <a name="instructor"></a> <br/> RIEM, SWUFE
 
-- Quantitative Mehtods in Empirical Analysis I (PhD), Spring 2019<br/>
+- Quantitative Mehtods in Empirical Analysis I (Graduate), Spring 2019<br/>
 <code>[syllabus]</code><br/>
 
-- Data Scientist with R (MA), Spring 2019. <br/>
-<code>[syllabus]</code><br/><br/>
+<!-- - Data Scientist with R (MA), Spring 2019. <br/>
+<code>[syllabus]</code><br/><br/> -->
 
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
