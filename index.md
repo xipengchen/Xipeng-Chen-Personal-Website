@@ -7,7 +7,7 @@ title: Naibao Zhao
 
 <img class="profile-picture" src="nzhao.jpeg">
 
-I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE) in Chengdu, China. 
+I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE), Chengdu China. 
 
 My broad research field is empirical microeconomics that intergrates solid economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics, including auctions, savings, education, and human development.<br/>
 
