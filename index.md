@@ -9,7 +9,7 @@ title: Naibao Zhao
 
 I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE), Chengdu China. 
 
-My broad research field is empirical microeconomics that intergrates solid economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics, including auctions, savings, education, and human development.<br/>
+My broad research field is empirical microeconomics that integrates solid economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics, including auctions, savings, education, and human development.<br/>
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
