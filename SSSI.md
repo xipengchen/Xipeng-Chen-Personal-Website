@@ -4,7 +4,7 @@ title: SSSI Chengdu
 description: SSSI Chengdu
 ---
 
-## <br/>About the Program
+## <br/>About SSSI Chengdu
 
 <img src="SSSI_2019_1.jpeg" align="left" style="max-width:100%; margin:0 50px 20px 0;">
 
