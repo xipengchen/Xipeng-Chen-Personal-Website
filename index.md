@@ -7,7 +7,7 @@ title: Naibao Zhao
 
 <img class="profile-picture" src="nzhao.jpeg">
 
-I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE), Chengdu China. I am also a member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP) at the University of Chicago.
+I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE), Chengdu China. I am also a member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP) at University of Chicago.
 
 My broad research field is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics, including inequality, education, human development, and empirical auctions.<br/>
 
