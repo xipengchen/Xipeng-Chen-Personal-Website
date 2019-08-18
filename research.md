@@ -35,7 +35,7 @@ description: labor economics, empirical IO, applied microeconomics.
   <!-- <code>link to latest draft | slides</code> <br/> -->
   <code>[new draft coming soon]</code> <br/>
   
-- Private Experimentation and Persuasion <br/> 
+- Sender’s Pre-announcement in Private Experimentation <br/> 
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and Meng Sun<br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
   <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/>
