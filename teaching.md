@@ -17,7 +17,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 </div> -->
 ## <a name="instructor"></a> <br/> RIEM, SWUFE
 
-- Empirical Microeconomics (Ph.D. core), Spring 2019<br/>
+- Empirical Microeconomics (Ph.D. core), Fall 2019<br/>
 <code>[syllabus]</code><br/>
 
 - Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), Spring 2019<br/>
