@@ -38,7 +38,8 @@ description: labor, education, empirical IO, and applied microeconomics.
 - Sender’s Pre-announcement in Private Experimentation <br/> 
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and Meng Sun<br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/>
+  <code>[new draft coming soon]</code> <br/><br/>
+  <!-- <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/> -->
   
 <!--  
 - The Role of Lead Investors in Fundraising Performance of Equity Crowdfunding: Evidence from China <br/> 
