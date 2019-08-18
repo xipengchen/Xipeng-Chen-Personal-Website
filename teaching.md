@@ -2,7 +2,7 @@
 layout: default
 title: Teaching | Naibao Zhao
 tagline: 
-description: microeconomics, econometrics, labor economics.
+description: quantitative methods in empirical analysis, data science, and labor economics.
 ---
 <!--
 <div class="navbar">
@@ -17,7 +17,10 @@ description: microeconomics, econometrics, labor economics.
 </div> -->
 ## <a name="instructor"></a> <br/> RIEM, SWUFE
 
-- Quantitative Methods in Empirical Analysis I (Graduate), Spring 2019<br/>
+- Empirical Microeconomics (Ph.D. core), Spring 2019<br/>
+<code>[syllabus]</code><br/>
+
+- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), Spring 2019<br/>
 <code>[syllabus]</code><br/>
 
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
@@ -26,7 +29,7 @@ description: microeconomics, econometrics, labor economics.
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
 
-- ECON 323: Microeconomic Theory (undergraduate), Spring 2018<br/>
+- Microeconomic Theory (B.A.), Spring 2018<br/>
 <code>[syllabus]</code><br/><br/>
 
 <!--
