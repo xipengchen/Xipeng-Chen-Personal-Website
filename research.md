@@ -39,18 +39,17 @@ description: labor economics, empirical IO, applied microeconomics.
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and Meng Sun<br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
   <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/>
+  
 <!--  
 - The Role of Lead Investors in Fundraising Performance of Equity Crowdfunding: Evidence from China <br/> 
   with <a href="http://gs.swufe.edu.cn/home/school/teacher/info?programaid=29&tid=384" target="_blank"> Tao Shen</a> and Fan Fan<br/>
-  <!-- <code>link to latest draft | slides</code> <br/> -->
+   <code>link to latest draft | slides</code> <br/> -->
 <!-- 
   <code>[new draft coming soon]</code> 
-  <br/><br/>
+  <br/><br/> -->
 
 <!-- > 221B, Baker Street
 > -->
-
----
 
 <!--
 ##  <br/> Work in Progress
