@@ -2,7 +2,7 @@
 layout: default
 title: Research | Naibao Zhao
 tagline:
-description: labor economics, empirical IO, applied microeconomics.
+description: labor, education, empirical IO, and applied microeconomics.
 ---
 
 ## <br/> Publications
