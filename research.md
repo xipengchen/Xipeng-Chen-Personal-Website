@@ -28,17 +28,21 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 - Uncertainty in Procurement Contracting with Incentives <br/> 
   with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/>
+<!-- 
   <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/>
 
+<!-- 
 - Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
   with <a href="http://people.tamu.edu/~ganli/" target="_blank"> Li Gan</a> and <a href="http://yongzhisun.com" target="_blank"> Yongzhi Sun</a><br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>[new draft coming soon]</code> <br/>
+<!-- 
+<code>[new draft coming soon]</code> <br/>
   
+<!--   
 - Sender’s Pre-announcement in Private Experimentation <br/> 
   with <a href="http://www.fuwentao.com" target="_blank"> Wentao Fu</a> and Meng Sun<br/>
   <!-- <code>link to latest draft | slides</code> <br/> -->
-  <code>[new draft coming soon]</code> <br/><br/>
+<!--   <code>[new draft coming soon]</code> <br/><br/> 
   <!-- <code>[<a href="{{ BASE_PATH }}/research/Fu_Sun_Zhao_2019_private_exp.pdf">link to latest draft</a>]</code> <br/><br/> -->
   
 <!--  
