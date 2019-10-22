@@ -29,7 +29,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 - Uncertainty in Procurement Contracting with Incentives <br/> 
   with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/>
 <!-- 
-  <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/>
+  <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/> -->
 
 <!-- 
 - Income Inequality, Liquidity Constraints, and China's Household Savings <br/> 
