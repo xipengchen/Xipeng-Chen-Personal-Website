@@ -14,7 +14,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
   甘犁、赵乃宝、孙永智<br/> 
-  《经济研究》2018年第12期<br/><br/>
+  <strong>《经济研究》</strong>2018年第12期<br/><br/>
 
 
 
@@ -26,7 +26,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 ## <br/> Working Papers
 
-- Uncertainty in Procurement Contracting with Incentives <br/> 
+- Uncertainty in Procurement Contracting with Incentives (R&R, <strong<em>International Economic Review</em></strong>>) <br/> 
   with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/>
 <!-- 
   <code>[<a href="{{ BASE_PATH }}/research/Gao_Zhang_Zhao_2019_uncertainty.pdf">link to latest draft</a>] | [<a href="{{ BASE_PATH }}/research/uncertainty_2019.pdf">slides</a>]</code><br/> -->
