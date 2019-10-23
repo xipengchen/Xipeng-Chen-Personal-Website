@@ -15,7 +15,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 - 收入不平等、流动性约束与中国家庭储蓄率<br/> 
   甘犁、赵乃宝、孙永智<br/> 
   <strong>《经济研究》</strong>2018年第12期<br/>
-   * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/>
+   * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/><br/>
 
 
 
