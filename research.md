@@ -5,17 +5,16 @@ tagline:
 description: labor, education, empirical IO, and applied microeconomics.
 ---
 
-## <br/> Publications
+## <br/> Selected Publications
 ### in Chinese
 
 <!-- #### <a name="pub"></a>publications -->
 
 <!-- ##### in Chinese -->
 
-- 收入不平等、流动性约束与中国家庭储蓄率<br/> 
-  甘犁、赵乃宝、孙永智<br/> 
-  <strong>《经济研究》</strong>2018年第12期<br/>
-   * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/><br/>
+- 收入不平等、流动性约束与中国家庭储蓄率。 <strong>《_经济研究_》</strong>2018年第12期<br/> 
+  与甘犁、孙永智合作<br/> 
+  * 该文被人大复印报刊资料《国民经济管理》2019 年第 4 期全文转载。<br/><br/>
 
 
 
@@ -25,7 +24,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 ---
 
-## <br/> Working Papers
+## <br/> Selected Working Papers
 
 - Uncertainty in Procurement Contracting with Incentives. R&R, <strong><em>International Economic Review</em></strong> <br/> 
   with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/><br/>
