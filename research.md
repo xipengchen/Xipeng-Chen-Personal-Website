@@ -12,8 +12,8 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 <!-- ##### in Chinese -->
 
-- Effects of minimum wage on workers’ on-the-job effort and labor market outcomes. <strong><em>Economic Modelling</em></strong>accepted<br/> 
-  (with Meng Sun)<br/> 
+- Effects of minimum wage on workers’ on-the-job effort and labor market outcomes. <strong><em>Economic Modelling</em></strong> accepted<br/> 
+  (with Meng Sun)<br/><br/> 
   
 ### in Chinese
 
