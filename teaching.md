@@ -17,13 +17,13 @@ description: quantitative methods in empirical analysis, data science, and labor
 </div> -->
 ## <a name="instructor"></a> <br/> RIEM, SWUFE
 
-- Econometrics (B.A. core), Spring 2020<br/>
+- Econometrics (B.A. core), 2020S. <br/>
 <!-- <code>[syllabus]</code><br/> -->
 
-- Empirical Microeconomics (Ph.D. core), Fall 2019<br/>
+- Empirical Microeconomics (Ph.D. core), 2019F.<br/>
 <!-- <code>[syllabus]</code><br/> -->
 
-- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), Spring 2019, Spring 2020<br/><br/>
+- Quantitative Methods in Empirical Analysis (Ph.D. & M.A. core), 2019S, 2020S. <br/><br/>
 <!-- <code>[syllabus]</code><br/> -->
 
 <!-- - Data Scientist with R (MA), Spring 2019. <br/>
@@ -32,7 +32,7 @@ description: quantitative methods in empirical analysis, data science, and labor
 ---
 ## <a name="instructor"></a> <br/> Texas A&M University
 
-- Microeconomic Theory (B.A. core), Spring 2018<br/>
+- Microeconomic Theory (B.A. core), 2018S. <br/><br/>
 <!-- <code>[syllabus]</code><br/><br/> -->
 
 <!--
