@@ -35,7 +35,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 
 ## <br/> Selected Working Papers
 
-- Uncertainty in procurement contracting with incentives. R&R, <strong><em>International Economic Review</em></strong> <br/> 
+- Uncertainty in procurement contracting with time incentives. R&R, <strong><em>International Economic Review</em></strong> <br/> 
   (with Wenzheng Gao and Daiqiang Zhang)<br/><br/>
   <!--with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/><br/>
 <!-- 
