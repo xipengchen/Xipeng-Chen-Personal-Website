@@ -11,8 +11,10 @@ description: labor, education, empirical IO, and applied microeconomics.
 <!-- #### <a name="pub"></a>publications -->
 
 <!-- ##### in Chinese -->
+- Uncertainty in procurement contracting with time incentives. R&R, <strong><em>International Economic Review</em></strong> , forthcoming.<br/> 
+  (with Wenzheng Gao and Daiqiang Zhang)<br/><br/>
 
-- Effects of minimum wage on workers’ on-the-job effort and labor market outcomes. <strong><em>Economic Modelling</em></strong>,  accepted.<br/> 
+- Effects of minimum wage on workers’ on-the-job effort and labor market outcomes. <strong><em>Economic Modelling</em></strong>, 95, 2021, 453-461.<br/> 
   (with Meng Sun)<br/><br/> 
   
 ### in Chinese
@@ -34,7 +36,7 @@ description: labor, education, empirical IO, and applied microeconomics.
 ---
 
 ## <br/> Selected Working Papers
-
+<!-- 
 - Uncertainty in procurement contracting with time incentives. R&R, <strong><em>International Economic Review</em></strong> <br/> 
   (with Wenzheng Gao and Daiqiang Zhang)<br/><br/>
   <!--with <a href="http://wenzhenggao.weebly.com" target="_blank"> Wenzheng Gao</a> and <a href="http://daiqiangzhang.weebly.com" target="_blank"> Daiqiang Zhang</a><br/><br/>
