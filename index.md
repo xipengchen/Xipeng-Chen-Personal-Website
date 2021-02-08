@@ -9,7 +9,7 @@ title: Naibao Zhao
 
 I am an associate professor of economics at the Research Institute of Economics and Management (RIEM), Southwestern University of Finance and Economics (SWUFE), Chengdu China. I am also a [member of the Human Capital and Economic Opportunity (HCEO) "Inequality: Measurement, Interpretation, and Policy" working group (MIP)](https://hceconomics.uchicago.edu/people/naibao-zhao) at the University of Chicago.
 
-My broad research field is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics, including empirical IO, labor, and household finance.<br/>
+My broad research field is empirical microeconomics that integrates economic theory with empirical evidence by using rigorous econometric analysis to study policy relevant questions. In particular, my research covers a wide range of topics in empirical IO, household finance, and labor economics.<br/>
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
