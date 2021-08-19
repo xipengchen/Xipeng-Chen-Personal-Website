@@ -17,7 +17,7 @@ My broad research field is empirical microeconomics that integrates economic the
 ## <br/>Contact
 
 nzhao AT swufe.edu.cn<br/> 
-220 RIEM Building, Guanghua Campus<br/> 
+503 RIEM Building, Guanghua Campus<br/> 
 Southwestern University of Finance and Economics<br/> 
 Chengdu, Sichuan 610074<br/> 
 P. R. China<br/><br/>
