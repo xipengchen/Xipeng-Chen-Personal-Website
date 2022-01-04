@@ -26,3 +26,5 @@ nav:
    link: "#"
  - name: "Code"
    link: "https://github.com/xipengchen"
+ - name: "Contact"
+   link: "contact"
