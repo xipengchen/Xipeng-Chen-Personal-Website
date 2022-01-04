@@ -8,19 +8,21 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_main: "Copyright © 2021 Xipeng Chen. All Rights Reserved. Theme by "
-footer_text: "ankitsultana"
-
+footer_url: "xipengchen.github.io"
+footer_text: "&copy Xipeng Chen 2022. <code>Last updated: May, 2021<br/><br/></code>"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About Me"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ # - name: "About"
+ #  link: "/researcher/"
+ - name: "Research"
+   link: "research"
+ - name: "Teaching"
+   link: "teaching"
+ - name: "Resource"
+   link: "#"
+ - name: "Code"
+   link: "https://github.com/xipengchen"
