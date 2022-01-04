@@ -40,21 +40,20 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: -10px 0 0 15px;
+        margin: -10px 0 0 35px;
         float: right;
         border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
         }
-        @media (max-width: $small-width) {
+        @media only screen
+         and(min-device-width: 85px) 
+         and(max-device-width: 85px) {
             img {
+                max-width: 85px;
                 margin-top: -5px;
             }
         }
-    }
-    img {
-        text-align: center;
-        width: 100%;
     }
 }
