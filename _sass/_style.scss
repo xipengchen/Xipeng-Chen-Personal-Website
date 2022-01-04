@@ -11,8 +11,20 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:15px;
+    line-height:20px;
+    color:#333333;
+    background-color:#ffffff;
     height: 100%;
+}
+code,pre {
+	padding:0 3px 2px;
+	font-family:Monaco,Menlo,Consolas,"Courier New",monospace;
+	font-size:11px;color:#333333;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;
+}
+h1, h2, h3, h4 {
+    color: darkslateblue;
 }
 a {
     text-decoration: none;
@@ -33,7 +45,7 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: 26px;
     color: #272727;
     display: inline-block;
 }
@@ -129,3 +141,4 @@ hr {
 
 @import "typography";
 @import "tables";
+
