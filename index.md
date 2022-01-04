@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Xipeng Chen
 ---
 
 ## About Me
