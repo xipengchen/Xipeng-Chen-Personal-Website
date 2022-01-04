@@ -1,6 +1,6 @@
 title: Xipeng Chen
-url: "https://xipengchen.github.co"
-
+url: "https://xipengchen.github.co/"
+# baseurl: "/about"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -9,7 +9,9 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_main: "Copyright © 2021 Xipeng Chen. All Rights Reserved. Theme by "
+footer_text: "ankitsultana"
+
 
 sass:
     style: compressed
