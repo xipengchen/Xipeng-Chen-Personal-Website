@@ -3,24 +3,20 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [xchen9@mail.yu.edu](mailto:xchen9@mail.yu.edu)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
 >
-> London
+> Changchun
 >
-> United Kingdom
+> China
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+[LinkedIn](#)
+
