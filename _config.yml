@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "xipengchen.github.io"
-footer_text: "&copy Xipeng Chen 2022. <code>Last updated: May, 2021<br/><br/></code>"
+footer_text: "&copy Xipeng Chen 2022. <code>Last updated: Jan, 2022<br/><br/></code>"
 
 sass:
     style: compressed
